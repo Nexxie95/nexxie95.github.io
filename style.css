@@ -16,3 +16,19 @@
    font-size: 200%;
    color: #8c1193;
 }
+
+a{
+    text-decoration: none;
+    color:#d24cdb;
+
+
+}
+a:hover{
+    color: #282928;
+    text-decoration: line-through;
+}
+
+#book{
+    text-align: left;
+    margin-left: 7%;
+}
