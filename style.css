@@ -29,6 +29,9 @@ a:hover{
 }
 
 #book{
-    text-align: left;
+    text-align: center;
     margin-left: 7%;
+    font-size: 150%;
+    background-color: #000000;
+    width: 25%;
 }
