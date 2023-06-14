@@ -1,6 +1,18 @@
 #size {
     font-size: 400%;
+    color: #d80ce3;
 }
-#textAlign {
+#body {
     text-align: center;
+    font-family: 'Comic Sans MS';
+    border: 1px solid #000000;
+    width: 15%;
+    margin: auto;
+    line-height: 50%;
+    margin-top: 7%;
+}
+
+.dino {
+   font-size: 200%;
+   color: #8c1193;
 }
