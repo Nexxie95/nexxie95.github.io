@@ -9,7 +9,6 @@
     width: 15%;
     margin: auto;
     line-height: 50%;
-    margin-top: 7%;
 }
 
 .dino {
@@ -30,8 +29,9 @@ a:hover{
 
 #book{
     text-align: center;
+    margin-top: 7%;
     margin-left: 7%;
     font-size: 150%;
-    background-color: #000000;
+    background-color: #6fdb9e;
     width: 25%;
 }
