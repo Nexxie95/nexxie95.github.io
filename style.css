@@ -16,22 +16,32 @@
    color: #8c1193;
 }
 
-a{
+a {
     text-decoration: none;
     color:#d24cdb;
 
 
 }
-a:hover{
+a:hover {
     color: #282928;
-    text-decoration: line-through;
+    text-decoration: underline;
 }
 
-#book{
+#book {
     text-align: center;
-    margin-top: 7%;
+    margin-top: 3.5%;
     margin-left: 7%;
     font-size: 150%;
     background-color: #6fdb9e;
-    width: 25%;
+    width: 20%;
+    align-items: center;
+
+}
+
+#img {
+    padding-top: 2%;
+}
+
+#text {
+    margin-top: 2%;
 }
