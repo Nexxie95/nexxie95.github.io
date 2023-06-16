@@ -1,6 +1,6 @@
 #size {
     font-size: 400%;
-    color: #d80ce3;
+    color: #000000;
 }
 #body {
     text-align: center;
@@ -13,7 +13,7 @@
 
 .dino {
    font-size: 200%;
-   color: #8c1193;
+   color: #f2eeee;
 }
 
 a {
@@ -44,4 +44,24 @@ a:hover {
 
 #text {
     margin-top: 2%;
+}
+
+#box {
+    background-color: #0e93a5;
+    margin-left: 70%;
+    width: 20%;
+    text-align: center;
+}
+
+#mainBody {
+    background-image: url("pics/background.jpg");
+    background-size: 106%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.honey {
+    font-size: 200%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
