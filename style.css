@@ -49,9 +49,11 @@ a:hover {
 }
 
 #box {
+    border-radius: 80%;
     background-color: #0e93a5;
     margin-left: 70%;
     width: 20%;
+    height: 300px;
     text-align: center;
 }
 
@@ -64,3 +66,4 @@ a:hover {
     margin-top: 2%;
     margin-bottom: 2%;
 }
+
