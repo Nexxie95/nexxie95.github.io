@@ -15,7 +15,7 @@
 }
 
 #body:hover {
-    background-color: #8cd87d;
+    background-color: #7dd8a4;
 }
 
 .dino {
@@ -39,7 +39,7 @@ a:hover {
     margin-top: 3.5%;
     margin-left: 7%;
     font-size: 150%;
-    background-color: #6fdb9e;
+    background-color: #7dd8a4;
     width: 20%;
     align-items: center;
     border-radius: 80%;
@@ -48,7 +48,7 @@ a:hover {
 }
 
 #book:hover {
-    background-color: #d24cdb;
+    background-color: #b96cc2;
 }
 
 #img {
@@ -61,7 +61,7 @@ a:hover {
 
 #box {
     border-radius: 80%;
-    background-color: #0e93a5;
+    background-color: #7dd8a4;
     margin-left: 70%;
     width: 20%;
     height: 300px;
