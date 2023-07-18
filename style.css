@@ -1,7 +1,14 @@
-#size {
-    font-size: 400%;
-    color: #000000;
+a {
+    text-decoration: none;
+    color:#d24cdb;
+
+
 }
+a:hover {
+    color: #282928;
+    text-decoration: underline;
+}
+
 #body {
     text-align: center;
     font-family: 'Comic Sans MS';
@@ -16,22 +23,6 @@
 
 #body:hover {
     background-color: #7dd8a4;
-}
-
-.dino {
-   font-size: 200%;
-   color: #f2eeee;
-}
-
-a {
-    text-decoration: none;
-    color:#d24cdb;
-
-
-}
-a:hover {
-    color: #282928;
-    text-decoration: underline;
 }
 
 #book {
@@ -51,14 +42,6 @@ a:hover {
     background-color: #b96cc2;
 }
 
-#img {
-    padding-top: 2%;
-}
-
-#text {
-    margin-top: 0.5%;
-}
-
 #box {
     border-radius: 80%;
     background-color: #7dd8a4;
@@ -68,8 +51,18 @@ a:hover {
     text-align: center;
 }
 
-#mainBody {
-   background-color: #33333f;
+#box:hover {
+    background-color: #b96cc2;
+}
+
+
+#cat {
+    padding-top: 15%;
+}
+
+.dino {
+   font-size: 200%;
+   color: #f2eeee;
 }
 
 .honey {
@@ -79,10 +72,30 @@ a:hover {
     margin-bottom: 2%;
 }
 
-#cat {
-    padding-top: 15%;
+#img {
+    padding-top: 2%;
 }
+
+
+
+
+
+#text {
+    margin-top: 0.5%;
+}
+
+
+#mainBody {
+   background-color: #33333f;
+}
+
+
 
 #padding {
     padding-top: 1.5%;
+}
+
+#size {
+    font-size: 400%;
+    color: #000000;
 }
