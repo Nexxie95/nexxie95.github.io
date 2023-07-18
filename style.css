@@ -1,28 +1,16 @@
-a {
-    text-decoration: none;
-    color:#d24cdb;
-
-
-}
-a:hover {
-    color: #282928;
-    text-decoration: underline;
+meta {
+    display: none;
 }
 
-#body {
-    text-align: center;
-    font-family: 'Comic Sans MS';
-    border: 1px solid #000000;
-    width: 20%;
-    margin: auto;
-    line-height: 50%;
-    border-radius: 90%;
-    height: 200px;
-    background-color: #b96cc2;
-}
-
-#body:hover {
-    background-color: #7dd8a4;
+#mainBody {
+    background-color: #33333f;
+ }
+ 
+.part  {
+    margin: 0%;
+    padding: 0%;
+    width: 100vw;
+    height: 100vh;
 }
 
 #book {
@@ -42,6 +30,55 @@ a:hover {
     background-color: #b96cc2;
 }
 
+a {
+    text-decoration: none;
+    color:#d24cdb;
+
+
+}
+a:hover {
+    color: #282928;
+    text-decoration: underline;
+}
+
+#img {
+    padding-top: 2%;
+}
+
+#text {
+    margin-top: 0.5%;
+}
+
+#body {
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    border: 1px solid #000000;
+    width: 20%;
+    margin: auto;
+    line-height: 50%;
+    border-radius: 90%;
+    height: 200px;
+    background-color: #b96cc2;
+}
+
+#body:hover {
+    background-color: #7dd8a4;
+}
+
+#padding {
+    padding-top: 1.5%;
+}
+
+.dino {
+    font-size: 200%;
+    color: #f2eeee;
+}
+ 
+#size {
+    font-size: 400%;
+    color: #000000;
+}
+
 #box {
     border-radius: 80%;
     background-color: #7dd8a4;
@@ -55,14 +92,8 @@ a:hover {
     background-color: #b96cc2;
 }
 
-
 #cat {
     padding-top: 15%;
-}
-
-.dino {
-   font-size: 200%;
-   color: #f2eeee;
 }
 
 .honey {
@@ -72,30 +103,6 @@ a:hover {
     margin-bottom: 2%;
 }
 
-#img {
-    padding-top: 2%;
-}
+#aboutMe {
 
-
-
-
-
-#text {
-    margin-top: 0.5%;
-}
-
-
-#mainBody {
-   background-color: #33333f;
-}
-
-
-
-#padding {
-    padding-top: 1.5%;
-}
-
-#size {
-    font-size: 400%;
-    color: #000000;
 }
