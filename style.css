@@ -1,22 +1,32 @@
-meta {
-    display: none;
+html {
+    scroll-behavior: smooth;
 }
 
-#mainBody {
+.main_links {
+    user-select: none;
+}
+
+#main {
+    padding: 0%;
+    margin: 0%;
+}
+
+#start-page {
     background-color: #33333f;
+    background-repeat: no-repeat;
  }
  
 .part  {
     margin: 0%;
     padding: 0%;
-    width: 100vw;
     height: 100vh;
 }
 
-#book {
+#cat1 {
+    position: absolute;
+    top: 12vh;
     text-align: center;
-    margin-top: 3.5%;
-    margin-left: 7%;
+    left: 7vw;
     font-size: 150%;
     background-color: #7dd8a4;
     width: 20%;
@@ -26,7 +36,7 @@ meta {
 
 }
 
-#book:hover {
+#cat1:hover {
     background-color: #b96cc2;
 }
 
@@ -41,15 +51,16 @@ a:hover {
     text-decoration: underline;
 }
 
-#img {
-    padding-top: 2%;
-}
 
 #text {
     margin-top: 0.5%;
 }
 
-#body {
+#welcome-text {
+    left: 50vw;
+    transform: translateX(-50%);
+    top: 35vh;
+    position: absolute;
     text-align: center;
     font-family: 'Comic Sans MS';
     border: 1px solid #000000;
@@ -61,7 +72,7 @@ a:hover {
     background-color: #b96cc2;
 }
 
-#body:hover {
+#welcome-text:hover {
     background-color: #7dd8a4;
 }
 
@@ -69,40 +80,39 @@ a:hover {
     padding-top: 1.5%;
 }
 
-.dino {
+.main-text {
     font-size: 200%;
     color: #f2eeee;
 }
  
-#size {
+#main-text-2 {
     font-size: 400%;
     color: #000000;
 }
 
-#box {
+#cat2 {
+    padding-top: 3%;
+    position: absolute;
+    top: 55vh;
     border-radius: 80%;
     background-color: #7dd8a4;
-    margin-left: 70%;
+    left: 70vw;
     width: 20%;
-    height: 300px;
+    height: 250px;
     text-align: center;
 }
 
-#box:hover {
+#cat2:hover {
     background-color: #b96cc2;
-}
-
-#cat {
-    padding-top: 15%;
 }
 
 .honey {
     font-size: 150%;
-    line-height: 60%;
+    line-height: 80%;
     margin-top: 2%;
     margin-bottom: 2%;
 }
 
 #aboutMe {
-
+background-image: url("pics\cat-g9rdx9uk2425fip2.jpg");
 }
