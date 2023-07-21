@@ -53,7 +53,7 @@ a:hover {
 
 
 #text {
-    margin-top: 0.5%;
+    margin-top: 0%;
 }
 
 #welcome-text {
@@ -106,7 +106,7 @@ a:hover {
     background-color: #b96cc2;
 }
 
-.honey {
+#text-me {
     font-size: 150%;
     line-height: 80%;
     margin-top: 2%;
@@ -114,5 +114,34 @@ a:hover {
 }
 
 #aboutMe {
-background-image: url("pics\cat-g9rdx9uk2425fip2.jpg");
+background-image: url("/pics/cat-g9rdx9uk2425fip2.jpg");
+}
+
+#main-about{
+    font-family: 'Comic Sans MS';
+    margin: 0%;
+    color: #951faa;
+    text-align: center;
+    font-size: 500%;
+}
+
+.block {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: 2px solid #000000;
+    background-color: #f2eeee;
+    margin: 0%;
+    width: 500px;
+    position: absolute;
+    top: 120vh;
+    left: 50vw;
+    border-radius: 12px;
+    opacity: 75%;
+}
+
+#text1-abtme {
+    font-size: 200%;
+    text-align: center;
+    font-weight: bold;
+       
 }
