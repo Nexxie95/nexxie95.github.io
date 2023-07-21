@@ -129,14 +129,14 @@ background-image: url("/pics/cat-g9rdx9uk2425fip2.jpg");
     padding-top: 3px;
     padding-bottom: 3px;
     border: 2px solid #000000;
-    background-color: #f2eeee;
+    background-color: rgba(142, 33, 169, 0.332);
     margin: 0%;
     width: 500px;
     position: absolute;
     top: 120vh;
     left: 50vw;
     border-radius: 12px;
-    opacity: 75%;
+
 }
 
 #text1-abtme {
