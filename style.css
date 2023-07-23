@@ -114,7 +114,7 @@ a:hover {
 }
 
 #aboutMe {
-background-image: url("/pics/cat-g9rdx9uk2425fip2.jpg");
+    background-image: url("/pics/cat-g9rdx9uk2425fip2.jpg");
 }
 
 #main-about{
@@ -132,16 +132,32 @@ background-image: url("/pics/cat-g9rdx9uk2425fip2.jpg");
     background-color: rgba(142, 33, 169, 0.332);
     margin: 0%;
     width: 500px;
+    border-radius: 12px; 
     position: absolute;
+}
+
+#block1 {
     top: 120vh;
     left: 50vw;
-    border-radius: 12px;
-
 }
 
 #text1-abtme {
-    font-size: 200%;
+    font-size: 180%;
     text-align: center;
     font-weight: bold;
-       
+    font-family: 'Comic Sans MS';
+    margin: 0%;
 }
+
+#block2 {
+    top: 165vh;
+    left: 5vw;
+}
+
+#text2-abtme {
+    font-size: 180%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Comic Sans MS';
+    margin: 0%;
+}    
