@@ -164,9 +164,9 @@ a:hover {
 }    
 
 #arrow {
-    position: sticky;
-    top: 30vh;
-    left: 12vw;
+    position: absolute;
+    top: 115vh;
+    left: 9vw;
     margin: 0%;
     padding: 0%;
     
