@@ -115,7 +115,7 @@ a:hover {
 }
 
 #aboutMe {
-    background-image: url("/pics/cat-g9rdx9uk2425fip2.jpg");
+    background-image: url("/pics/catbackground.jpg");
 }
 
 #main-about{
@@ -162,3 +162,12 @@ a:hover {
     font-family: 'Comic Sans MS';
     margin: 0%;
 }    
+
+#arrow {
+    position: sticky;
+    top: 30vh;
+    left: 12vw;
+    margin: 0%;
+    padding: 0%;
+    
+}
