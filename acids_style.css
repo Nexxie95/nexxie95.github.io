@@ -1,0 +1,124 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#body {
+    background-color: #2a2e36;
+}
+
+h1 {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 140%;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding-left: 0%;
+    overflow: hidden;
+    background-color: #0745a8;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0%;
+    float: left;
+}
+
+
+li {
+    float: inline-start;
+    border-right: 2px solid #1d3986 ;
+    font-size: 200%;
+    padding: 1%;
+
+}
+  
+li a {
+    display: block;
+    padding-left:  1vw;
+    padding-right: 1vw;
+    color:#ffffff;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #808080;
+}
+
+.section{
+    height: 100vh;
+    padding-top: 4%;
+}
+
+.text {
+   width: 65vw;
+   
+}
+
+.image {
+    z-index: -1;
+}
+
+#homeImg {
+    position: relative;
+    left: 70vw;
+    bottom: 60dvh;
+    width: 300px;
+}
+
+#HClImg {
+    position: relative;
+    left: 70vw;
+    bottom: 60dvh;
+    width: 300px;
+}
+
+#HFImg {
+    position: relative;
+    left: 70vw;
+    bottom: 57dvh;
+    width: 300px;
+}
+
+#IMG3{
+    position: relative;
+    left: 70vw;
+    bottom: 57dvh;
+    width: 300px;
+}
+
+#IMG4{
+    position: relative;
+    left: 70vw;
+    bottom: 57dvh;
+    width: 300px;
+}
+#IMG5{
+    position: relative;
+    left: 70vw;
+    bottom: 60dvh;
+    width: 300px;
+}
+#IMG6{
+    position: relative;
+    left: 70vw;
+    bottom: 57dvh;
+    width: 300px;
+}
+#IMG7{
+    position: relative;
+    left: 70vw;
+    bottom: 60dvh;
+    width: 300px;
+}
+#IMG8{
+    position: relative;
+    left: 70vw;
+    bottom: 57dvh;
+    width: 300px;
+}
